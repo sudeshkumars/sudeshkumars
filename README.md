@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mern stack**
 
-- 👨‍💻 All of my projects are available at [https://www.fiverr.com/users/sudesh009/portfolio](https://www.fiverr.com/users/sudesh009/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.fiverr.com/users/sudesh009/portfolio)
 
 - 📫 How to reach me **doubblu@proton.me**
 
