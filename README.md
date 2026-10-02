@@ -7,6 +7,10 @@
 
 <br>
 
+![Sudesh's anime-style character](./character.png?v=1)
+
+<br>
+
 ![Animated developer ID badge](./lanyard.svg?v=3)
 
 <br>
