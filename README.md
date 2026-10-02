@@ -1,22 +1,21 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/banner-light.svg?v=2">
-  <img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/banner.svg?v=2" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=3">
+  <img src="/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=3" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
 </picture>
 
 <br>
 
-<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/lanyard.svg?v=2" alt="Animated developer ID badge" width="260">
+![Animated developer ID badge](./lanyard.svg?v=3)
 
 <br>
 
-<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/stats.svg?v=2" alt="GitHub profile statistics" width="49%">
-<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/langs.svg?v=2" alt="Development focus areas" width="49%">
+![GitHub profile statistics](./stats.svg?v=3) ![Development focus areas](./langs.svg?v=3)
 
 <br>
 
-<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/trophies.svg?v=2" alt="GitHub milestones" width="100%">
+![GitHub milestones](./trophies.svg?v=3)
 
 ### About me
 
