@@ -1,25 +1,25 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=3">
-  <img src="/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=3" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=4">
+  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=4" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
 </picture>
 
 <br>
 
-![Sudesh's anime-style character](./character.png?v=1)
+![Sudesh's anime-style character](https://github.com/sudeshkumars/sudeshkumars/blob/main/character.png?raw=true&v=4)
 
 <br>
 
-![Animated developer ID badge](./lanyard.svg?v=3)
+![Animated developer ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=4)
 
 <br>
 
-![GitHub profile statistics](./stats.svg?v=3) ![Development focus areas](./langs.svg?v=3)
+![GitHub profile statistics](https://github.com/sudeshkumars/sudeshkumars/blob/main/stats.svg?raw=true&v=4) ![Development focus areas](https://github.com/sudeshkumars/sudeshkumars/blob/main/langs.svg?raw=true&v=4)
 
 <br>
 
-![GitHub milestones](./trophies.svg?v=3)
+![GitHub milestones](https://github.com/sudeshkumars/sudeshkumars/blob/main/trophies.svg?raw=true&v=4)
 
 ### About me
 
