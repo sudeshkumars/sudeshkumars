@@ -1,22 +1,22 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img src="banner.svg?v=1" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/banner-light.svg?v=2">
+  <img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/banner.svg?v=2" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
 </picture>
 
 <br>
 
-<img src="lanyard.svg?v=1" alt="Animated developer ID badge" width="260">
+<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/lanyard.svg?v=2" alt="Animated developer ID badge" width="260">
 
 <br>
 
-<img src="stats.svg?v=1" alt="GitHub profile statistics" width="49%">
-<img src="langs.svg?v=1" alt="Development focus areas" width="49%">
+<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/stats.svg?v=2" alt="GitHub profile statistics" width="49%">
+<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/langs.svg?v=2" alt="Development focus areas" width="49%">
 
 <br>
 
-<img src="trophies.svg?v=1" alt="GitHub milestones" width="100%">
+<img src="https://github.com/sudeshkumars/sudeshkumars/raw/refs/heads/main/trophies.svg?v=2" alt="GitHub milestones" width="100%">
 
 ### About me
 
