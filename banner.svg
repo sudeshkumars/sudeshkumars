@@ -19,7 +19,7 @@
 </defs>
 <g clip-path="url(#round)">
  <rect width="1280" height="740" fill="url(#bg)"/><rect width="1280" height="740" fill="url(#dots)"/>
- <circle cx="210" cy="380" r="290" fill="url(#orb)" style="animation:pulse 6s infinite"/><circle cx="1090" cy="185" r="260" fill="url(#orb)" style="animation:pulse 7s 1s infinite"/>
+ <circle cx="210" cy="380" r="290" fill="url(#orb)" style="animation:pulse 6s infinite,drift 11s ease-in-out infinite"/><circle cx="1090" cy="185" r="260" fill="url(#orb)" style="animation:pulse 7s 1s infinite,drift 13s 2s ease-in-out infinite"/>
  <g fill="#fff"><circle class="spark" cx="62" cy="92" r="2"/><circle class="spark" cx="360" cy="101" r="1.7" style="animation-delay:.7s"/><circle class="spark" cx="1201" cy="170" r="2" style="animation-delay:.3s"/><circle class="spark" cx="1122" cy="616" r="1.8" style="animation-delay:1.2s"/><path class="spark" d="M690 54v10m-5-5h10"/><path class="spark" d="M1215 420v9m-4.5-4.5h9"/></g>
  <g fill="#5de5ff" opacity=".55"><circle class="particle" cx="82" cy="678" r="3"/><circle class="particle" cx="410" cy="694" r="2" style="animation-delay:1s"/><circle class="particle" cx="1180" cy="675" r="2.5" style="animation-delay:2s"/></g>
  <!-- Terminal header -->

@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=7">
-  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=7" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=8">
+  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=8" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
 </picture>
 
 <br><br>
