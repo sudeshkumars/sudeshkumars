@@ -36,9 +36,9 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 | [Anti-Spam Moderation Discord Bot](https://github.com/sudeshkumars/Anti-Spam-Moderation-Discord-Bot) | Discord anti-spam and moderation tools | JavaScript |
 | [Head Tracking Window Minimizer](https://github.com/sudeshkumars/Head--Tracking-Window-Minimizer) | Hides screen content when you're away | Python · OpenCV |
 
-### Contribution activity
+### My contribution city
 
-![Contribution activity graph for sudeshkumars](https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/contributions.svg?v=4)
+![Sudesh's contribution city with an isometric commit grid, language mix, and activity radar](https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/city.svg?v=1)
 
 ### Find me
 
@@ -54,6 +54,8 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 <img src="https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/snake.svg?v=4" alt="Snake animation eating my GitHub contributions" width="100%">
 
-**Always learning, always building.**
+<br>
+
+![Let's build something together — Sudesh Kumar's profile, character, GitHub, and email](https://github.com/sudeshkumars/sudeshkumars/blob/main/connect.svg?raw=true&v=1)
 
 </div>
