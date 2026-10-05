@@ -15,12 +15,6 @@
 
 <br>
 
-![GitHub profile statistics](https://github.com/sudeshkumars/sudeshkumars/blob/main/stats.svg?raw=true&v=6) ![Development focus areas](https://github.com/sudeshkumars/sudeshkumars/blob/main/langs.svg?raw=true&v=6)
-
-<br>
-
-![GitHub milestones](https://github.com/sudeshkumars/sudeshkumars/blob/main/trophies.svg?raw=true&v=6)
-
 ### About me
 
 I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my MERN skills, creating Lua and Discord.js projects, and modding GTA V / FiveM.
