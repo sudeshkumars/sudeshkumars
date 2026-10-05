@@ -20,7 +20,7 @@ COLS = 53
 def fetch_calendar() -> tuple[int, list[list[dict]]]:
     end = dt.datetime.now(dt.timezone.utc).replace(hour=23, minute=59, second=59, microsecond=0)
     start = end - dt.timedelta(days=365)
-    query = """query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions weeks{contributionDays{contributionCount date color}}}}}}"""
+    query = """query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions weeks{contributionDays{contributionCount contributionLevel date}}}}}}"""
     payload = json.dumps({"query": query, "variables": {"login": USER, "from": start.isoformat(), "to": end.isoformat()}}).encode()
     request = urllib.request.Request(
         "https://api.github.com/graphql",
@@ -65,7 +65,8 @@ def main() -> None:
             date = dt.date.fromisoformat(day["date"])
             row = date.weekday()
             count = day["contributionCount"]
-            fill = day["color"] if count else "#143347"
+            palette = {"NONE": "#143347", "FIRST_QUARTILE": "#144460", "SECOND_QUARTILE": "#196f8a", "THIRD_QUARTILE": "#2b9ec4", "FOURTH_QUARTILE": "#43e6f3"}
+            fill = palette.get(day.get("contributionLevel", "NONE"), "#43e6f3" if count else "#143347")
             x, y = LEFT + column * STEP, TOP + row * STEP
             parts.append(f'<rect class="day" x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="3" fill="{fill}" style="animation-delay:{min(column * .008, .4):.3f}s"><title>{date.isoformat()}: {count} contributions</title></rect>')
 

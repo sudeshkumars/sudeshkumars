@@ -38,7 +38,7 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 ### Contribution activity
 
-![Contribution activity graph for sudeshkumars](https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/contributions.svg?v=3)
+![Contribution activity graph for sudeshkumars](https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/contributions.svg?v=4)
 
 ### Find me
 
