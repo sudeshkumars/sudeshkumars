@@ -48,7 +48,7 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 <br>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=sudeshkumars&label=PROFILE%20VIEWS&color=bd59a7&style=flat&v=6)
+![Profile views counter](https://komarev.com/ghpvc/?username=sudeshkumars&label=PROFILE%20VIEWS&color=139fbd&style=flat&v=7)
 
 <br><br>
 
