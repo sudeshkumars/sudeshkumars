@@ -1,25 +1,25 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=4">
-  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=4" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=5">
+  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=5" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
 </picture>
 
 <br>
 
-![Sudesh's anime-style character](https://github.com/sudeshkumars/sudeshkumars/blob/main/character.png?raw=true&v=4)
+![Sudesh's anime-style character](https://github.com/sudeshkumars/sudeshkumars/blob/main/character.png?raw=true&v=5)
 
 <br>
 
-![Animated developer ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=4)
+![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=5)
 
 <br>
 
-![GitHub profile statistics](https://github.com/sudeshkumars/sudeshkumars/blob/main/stats.svg?raw=true&v=4) ![Development focus areas](https://github.com/sudeshkumars/sudeshkumars/blob/main/langs.svg?raw=true&v=4)
+![GitHub profile statistics](https://github.com/sudeshkumars/sudeshkumars/blob/main/stats.svg?raw=true&v=5) ![Development focus areas](https://github.com/sudeshkumars/sudeshkumars/blob/main/langs.svg?raw=true&v=5)
 
 <br>
 
-![GitHub milestones](https://github.com/sudeshkumars/sudeshkumars/blob/main/trophies.svg?raw=true&v=4)
+![GitHub milestones](https://github.com/sudeshkumars/sudeshkumars/blob/main/trophies.svg?raw=true&v=5)
 
 ### About me
 
@@ -38,7 +38,7 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 ### Contribution activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeshkumars&bg_color=100b1b&color=efd8ff&line=ff70c8&point=ba78ff&area=true&hide_border=true" alt="Contribution activity graph for sudeshkumars" width="100%">
+![Contribution activity graph for sudeshkumars](https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/contributions.svg?v=1)
 
 ### Find me
 
@@ -48,11 +48,11 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sudeshkumars&label=PROFILE%20VIEWS&color=bd59a7&style=flat" alt="Profile views counter">
+![Profile views counter](https://komarev.com/ghpvc/?username=sudeshkumars&label=PROFILE%20VIEWS&color=bd59a7&style=flat&v=5)
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/snake.svg?v=1" alt="Snake animation eating my GitHub contributions" width="100%">
+<img src="https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/snake.svg?v=2" alt="Snake animation eating my GitHub contributions" width="100%">
 
 **Always learning, always building.**
 
