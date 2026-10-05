@@ -46,6 +46,6 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 <br>
 
-![Let's build something together — Sudesh Kumar's profile, character, GitHub, and email](https://github.com/sudeshkumars/sudeshkumars/blob/main/connect.svg?raw=true&v=4)
+![Let's build something together — Sudesh Kumar's profile, character, GitHub, and email](https://github.com/sudeshkumars/sudeshkumars/blob/main/connect.svg?raw=true&v=20261005-2)
 
 </div>
