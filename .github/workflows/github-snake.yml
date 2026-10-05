@@ -24,7 +24,7 @@ jobs:
         with:
           github_user_name: sudeshkumars
           outputs: |
-            dist/snake.svg?color_snake=%23ff71c8&color_dots=%23f4e8ff%2C%23ecc8f1%2C%23dc9ce8%2C%23c47bdf%2C%239a56c8
+            dist/snake.svg?color_snake=%2343e6f3&color_dots=%23d9fbff%2C%23a8f3ff%2C%2364dcf7%2C%2335b7ec%2C%23177bd4
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

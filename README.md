@@ -1,25 +1,25 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=5">
-  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=5" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=6">
+  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=6" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
 </picture>
 
 <br>
 
-![Sudesh's anime-style character](https://github.com/sudeshkumars/sudeshkumars/blob/main/character.png?raw=true&v=5)
+![Sudesh's anime-style character](https://github.com/sudeshkumars/sudeshkumars/blob/main/character.png?raw=true&v=6)
 
 <br>
 
-![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=5)
+![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=6)
 
 <br>
 
-![GitHub profile statistics](https://github.com/sudeshkumars/sudeshkumars/blob/main/stats.svg?raw=true&v=5) ![Development focus areas](https://github.com/sudeshkumars/sudeshkumars/blob/main/langs.svg?raw=true&v=5)
+![GitHub profile statistics](https://github.com/sudeshkumars/sudeshkumars/blob/main/stats.svg?raw=true&v=6) ![Development focus areas](https://github.com/sudeshkumars/sudeshkumars/blob/main/langs.svg?raw=true&v=6)
 
 <br>
 
-![GitHub milestones](https://github.com/sudeshkumars/sudeshkumars/blob/main/trophies.svg?raw=true&v=5)
+![GitHub milestones](https://github.com/sudeshkumars/sudeshkumars/blob/main/trophies.svg?raw=true&v=6)
 
 ### About me
 
@@ -38,21 +38,21 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 ### Contribution activity
 
-![Contribution activity graph for sudeshkumars](https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/contributions.svg?v=1)
+![Contribution activity graph for sudeshkumars](https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/contributions.svg?v=3)
 
 ### Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-sudeshkumars-181717?style=for-the-badge&logo=github)](https://github.com/sudeshkumars)
-[![Email](https://img.shields.io/badge/Email-say_hello-cc55ad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudesh.kumarh2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-say_hello-139fbd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudesh.kumarh2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudesh--kumars-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudesh-kumars/)
 
 <br>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=sudeshkumars&label=PROFILE%20VIEWS&color=bd59a7&style=flat&v=5)
+![Profile views counter](https://komarev.com/ghpvc/?username=sudeshkumars&label=PROFILE%20VIEWS&color=bd59a7&style=flat&v=6)
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/snake.svg?v=2" alt="Snake animation eating my GitHub contributions" width="100%">
+<img src="https://raw.githubusercontent.com/sudeshkumars/sudeshkumars/output/snake.svg?v=4" alt="Snake animation eating my GitHub contributions" width="100%">
 
 **Always learning, always building.**
 
