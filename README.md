@@ -7,10 +7,6 @@
 
 <br>
 
-![Sudesh's anime-style character](https://github.com/sudeshkumars/sudeshkumars/blob/main/character.png?raw=true&v=6)
-
-<br>
-
 ![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=6)
 
 <br>
