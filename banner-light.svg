@@ -11,7 +11,7 @@
  <clipPath id="formation"><rect x="76" y="160" width="430" height="0"><animate attributeName="height" from="0" to="490" dur="2.2s" fill="freeze"/></rect></clipPath>
  <clipPath id="nameclip"><rect x="470" y="120" width="0" height="104"><animate attributeName="width" values="0;690" keyTimes="0;1" dur="1.7s" begin=".6s" fill="freeze"/></rect></clipPath>
  <clipPath id="role1"><rect x="548" y="217" width="0" height="38"><animate attributeName="width" values="0;0;235;235;0;0" keyTimes="0;.03;.13;.32;.37;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
- <clipPath id="role2"><rect x="548" y="217" width="0" height="38"><animate attributeName="width" values="0;0;0;295;295;0;0" keyTimes="0;.33;.36;.44;.63;.67;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="role2"><rect x="548" y="217" width="0" height="38"><animate attributeName="width" values="0;0;0;200;200;0;0" keyTimes="0;.33;.36;.44;.63;.67;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
  <clipPath id="role3"><rect x="548" y="217" width="0" height="38"><animate attributeName="width" values="0;0;0;220;220;0;0" keyTimes="0;.67;.70;.78;.95;.99;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
  <style><![CDATA[
  text{font-family:Inter,'Segoe UI',sans-serif}.mono{font-family:'Cascadia Code',Consolas,monospace;letter-spacing:.2px}.panel{fill:#ffffff;stroke:#cfe7f0;stroke-width:1}.soft{fill:#15354b}.small{font-size:13px}.pill{fill:#f2fbff;stroke:#43d8ef66}.typed{overflow:hidden;white-space:nowrap;animation:typing 2.4s steps(28,end) .4s both}.cursor{animation:blink .8s steps(2,start) infinite}@keyframes typing{from{clip-path:inset(-16px 100% -16px 0)}to{clip-path:inset(-16px 0 -16px 0)}}@keyframes blink{50%{opacity:0}}@keyframes pop{0%{opacity:0;transform:translateY(18px) scale(.86)}75%{transform:translateY(-3px) scale(1.04)}100%{opacity:1;transform:translateY(0) scale(1)}}@keyframes fade{to{opacity:1}}@keyframes drift{50%{transform:translateY(-12px)}}@keyframes pulse{50%{opacity:.55;transform:scale(1.08)}}@keyframes sweep{0%{transform:translateY(-160px)}100%{transform:translateY(900px)}}@keyframes neon{0%,8%,12%,100%{opacity:1;filter:drop-shadow(0 0 9px #51e8f5)}9%,11%{opacity:.25;filter:none}}@keyframes rise{from{transform:translateY(70px);opacity:0}to{transform:translateY(-30px);opacity:0}}.letter{opacity:0;animation:pop .55s cubic-bezier(.2,.8,.25,1.4) forwards}.pillIn{opacity:0;animation:fade .55s ease forwards}.pillIn rect{transition:filter .25s,transform .25s;transform-box:fill-box;transform-origin:center}.pillIn:hover rect{filter:url(#glow);transform:scale(1.07)}.spark{animation:pulse 1.8s ease-in-out infinite}.particle{animation:rise 4s ease-in infinite}
@@ -38,7 +38,7 @@
  <!-- role cycle -->
  <g class="mono" font-size="20" fill="#163b54">
   <text x="550" y="245" clip-path="url(#role1)">Web Developer<tspan class="cursor">|</tspan></text>
-  <text x="550" y="245" clip-path="url(#role2)">MERN Stack Builder<tspan class="cursor">|</tspan></text>
+  <text x="550" y="245" clip-path="url(#role2)">MERN Builder<tspan class="cursor">|</tspan></text>
   <text x="550" y="245" clip-path="url(#role3)">GTA V Modder<tspan class="cursor">|</tspan></text>
  </g>
  <!-- quote -->

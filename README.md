@@ -1,13 +1,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=6">
-  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=6" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner-light.svg?raw=true&amp;v=7">
+  <img src="https://github.com/sudeshkumars/sudeshkumars/blob/main/banner.svg?raw=true&amp;v=7" alt="Sudesh Kumar — Web Developer, MERN stack builder and GTA V modder" width="100%">
 </picture>
 
 <br><br>
 
-![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=6)
+![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=8)
 
 <br>
 
@@ -46,6 +46,6 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 <br>
 
-![Let's build something together — Sudesh Kumar's profile, character, GitHub, and email](https://github.com/sudeshkumars/sudeshkumars/blob/main/connect.svg?raw=true&v=1)
+![Let's build something together — Sudesh Kumar's profile, character, GitHub, and email](https://github.com/sudeshkumars/sudeshkumars/blob/main/connect.svg?raw=true&v=3)
 
 </div>
