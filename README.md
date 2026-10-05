@@ -7,7 +7,7 @@
 
 <br><br>
 
-![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/main/lanyard.svg?raw=true&v=10)
+![Sudesh's developer dashboard and animated ID badge](https://github.com/sudeshkumars/sudeshkumars/blob/86ecace2f0c955f36dae54fcfaf9dbe56af90e71/lanyard.svg?raw=true&v=1)
 
 <br>
 
@@ -46,6 +46,6 @@ I'm **Sudesh Kumar** — a web developer learning by building. I'm growing my ME
 
 <br>
 
-![Let's build something together — Sudesh Kumar's profile, character, GitHub, and email](https://github.com/sudeshkumars/sudeshkumars/blob/main/connect.svg?raw=true&v=20261005-3)
+![Let's build something together — Sudesh Kumar's profile, character, GitHub, and email](https://github.com/sudeshkumars/sudeshkumars/blob/86ecace2f0c955f36dae54fcfaf9dbe56af90e71/connect.svg?raw=true&v=1)
 
 </div>
